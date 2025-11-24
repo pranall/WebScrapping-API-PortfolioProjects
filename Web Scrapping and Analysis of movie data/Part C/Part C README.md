@@ -8,7 +8,7 @@ This project focuses on extracting, analyzing, and processing data from **YouTub
 
 ## API Setup
 
-### Creating the API Key
+### Creating the API Key (The entire process with pictures and screenshots are available in the said .ipynb file)
 
 A YouTube API key was created through the **Google Cloud Console**.
 The key steps included:
