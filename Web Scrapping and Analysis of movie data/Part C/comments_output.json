@@ -1,0 +1,691 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "fj-BKq6uHKKYrVqLfVlEtxFsgOA",
+  "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNJa2dHQUFTQlFpSElCZ0FFZ1VJblNBWUFSSUZDSWdnR0FBWUFDSU5DZ3NJcU51VXFBWVE2T2JBYXc=",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TXSJ8ywq7en1OmcuGmyI3G6EDJg",
+      "id": "UgyHMeBawqv8TztdXQV4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3gTr3uXhQA0ud7l6CyL465eFeu0",
+          "id": "UgyHMeBawqv8TztdXQV4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "Sucks that the good guys lose",
+            "textOriginal": "Sucks that the good guys lose",
+            "authorDisplayName": "Carcajou89",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/BFJEVn0B6LPLmW8kUIz1M6yF_ydo4p8BWzWy0Xu_DZDv08f9c7R9TZlfkl5VaIfORRkjGCHD-g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWzj5BOQM3BFvaSjPuzbl_g",
+            "authorChannelId": {
+              "value": "UCWzj5BOQM3BFvaSjPuzbl_g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-11-18T22:02:43Z",
+            "updatedAt": "2023-11-18T22:02:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mXSt2zCXfe9zwl6_GUjrWTaIAc0",
+      "id": "UgyuAUm1LBZDqLPswn94AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HJ9Mtp49OqZ2Bk7TOAh8BaNiicE",
+          "id": "UgyuAUm1LBZDqLPswn94AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "\u2764\u2764\u2764",
+            "textOriginal": "\u2764\u2764\u2764",
+            "authorDisplayName": "Abrar Galib Shohan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/folOTwhon8IMVNfb9ClgpGsYN3lKSi-ku9b7oqWstRYoA4egma9ZDNp4olCA-MYkCFs4NZT_Wg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdrGpW71gmTmaW7jP0vF0sQ",
+            "authorChannelId": {
+              "value": "UCdrGpW71gmTmaW7jP0vF0sQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-11-18T17:16:59Z",
+            "updatedAt": "2023-11-18T17:16:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gqtncpuviDeq2fvi9KY79dM6X8I",
+      "id": "Ugy_mTkJPJFETxozx1x4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "I8j4VxxVyuXQSi-e-oe2rnBtSM4",
+          "id": "Ugy_mTkJPJFETxozx1x4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "What a load of twaddle.",
+            "textOriginal": "What a load of twaddle.",
+            "authorDisplayName": "Lord Ernest Sands-Creighton",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Ki0KJCcaKUtwskPWYCOZJb9BJFdfeQF4NACgLrhF_S2R5w7iP-5VFJXGKy2v1rtMkfnqndw-m9Y=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvf4FyWw-dwqIcVRJVn7qNg",
+            "authorChannelId": {
+              "value": "UCvf4FyWw-dwqIcVRJVn7qNg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-11-18T12:59:45Z",
+            "updatedAt": "2023-11-18T12:59:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "l4RYuYb6aq1o8Q9FSgfee7vzFbQ",
+      "id": "UgxRHigYIyb_QFRE9Ad4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ueo9IR3-IQBrN4K8H7Z7F85nokE",
+          "id": "UgxRHigYIyb_QFRE9Ad4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "\ud83c\udf37\ud83c\udf38\ud83c\udf37\ud83c\udf38<br>    \ud83c\udf38\ud83c\udf37\ud83c\udf38\ud83c\udf37\ud83c\udf38<br> \u039b\ud83c\udf37\ud83c\udf38\ud83c\udf37\ud83c\udf38\ud83c\udf37<br>( \u02d8 \u1d55 \u02d8\ud83c\udf37\ud83c\udf38\ud83c\udf37<br>\u30fd  \u3064\uff3c     \uff0f<br>   UU   / \ud83c\udf80 \\",
+            "textOriginal": "\ud83c\udf37\ud83c\udf38\ud83c\udf37\ud83c\udf38\n    \ud83c\udf38\ud83c\udf37\ud83c\udf38\ud83c\udf37\ud83c\udf38\n \u039b\ud83c\udf37\ud83c\udf38\ud83c\udf37\ud83c\udf38\ud83c\udf37\n( \u02d8 \u1d55 \u02d8\ud83c\udf37\ud83c\udf38\ud83c\udf37\n\u30fd  \u3064\uff3c     \uff0f\n   UU   / \ud83c\udf80 \\",
+            "authorDisplayName": "Avril Maulidiasari",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/hoGU8am5DobTpjeeYmaJ2389vb3rYjf6XE1nyfqbGpTciUDQ1N9LU2xDZRPMVL0SSgX-UyT3Jw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMkxX1L8rk_G-LsFI0nlJ7A",
+            "authorChannelId": {
+              "value": "UCMkxX1L8rk_G-LsFI0nlJ7A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-11-17T15:23:54Z",
+            "updatedAt": "2023-11-17T15:23:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "k6imsARQmy0pOxkeaLBG2c9jY4E",
+      "id": "Ugx942zsuEG7z6IzcZN4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JhqZCj62z3XrM7xy-OlxCOhxYcY",
+          "id": "Ugx942zsuEG7z6IzcZN4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "O Europeans, here is your civilization! You are in a cultured but barbaric system. The civilization you brought to Africans and Indians is scoundrels.",
+            "textOriginal": "O Europeans, here is your civilization! You are in a cultured but barbaric system. The civilization you brought to Africans and Indians is scoundrels.",
+            "authorDisplayName": "F\u0131rat Akba\u015f",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYdc-RVjz9xC0gADZCEVPhwiHVYMt45TJx8F7bVoWi9ifxKK-u8Jn5alJE5jbUE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcDqQ7t9JB0B6ePlRjEpLZQ",
+            "authorChannelId": {
+              "value": "UCcDqQ7t9JB0B6ePlRjEpLZQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-11-16T21:29:12Z",
+            "updatedAt": "2023-11-16T21:29:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "K94PegXu-UnmG4AZIBJ_QGkn7tI",
+      "id": "Ugwm02DxteQpMsQVPQN4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "4VMt5A7JX8DDnSRqvykgF3k0W50",
+          "id": "Ugwm02DxteQpMsQVPQN4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "I totally forgot the scenes from AVATAR. I watched this and I thought I watched the way of water. What a great CGI. It still holds its own standard.",
+            "textOriginal": "I totally forgot the scenes from AVATAR. I watched this and I thought I watched the way of water. What a great CGI. It still holds its own standard.",
+            "authorDisplayName": "Ansul singh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/agPXNgheiy7VSnRODX774NWM3QRSaT8wpyPuhuForj9kHZvabngBhNUGTo6FWFSjKeDZ1bP4XA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOtxG9Xa4oWVQfknOCZrqMw",
+            "authorChannelId": {
+              "value": "UCOtxG9Xa4oWVQfknOCZrqMw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-11-15T06:21:37Z",
+            "updatedAt": "2023-11-15T06:21:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KssDFXOj-Orn4O7f4_SogmMhHj4",
+      "id": "Ugwe0r1948G0zdTKRux4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "GGwo1yNQc_DHlvismG3cwxlH92Q",
+          "id": "Ugwe0r1948G0zdTKRux4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "Couldn&#39;t the company have just given the main character a new artificial body for less than what it cost them to send him to another planet around another star?",
+            "textOriginal": "Couldn't the company have just given the main character a new artificial body for less than what it cost them to send him to another planet around another star?",
+            "authorDisplayName": "John Ward",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYf-ukkhK2dzB4_YATT76XrtmWcQfi-pL7wDg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClGCWzDQs3-QJSm9j21FA-Q",
+            "authorChannelId": {
+              "value": "UClGCWzDQs3-QJSm9j21FA-Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-11-07T14:10:16Z",
+            "updatedAt": "2023-11-07T14:10:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VmZR7iOoXVHSIsbyXx5Rm_EmYW4",
+      "id": "UgwGBapSUxQOq8FPpsx4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ON3SkOc2V8udxPvla0oq0FSGlCo",
+          "id": "UgwGBapSUxQOq8FPpsx4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "What i really love abou avatar is that human is the one who colonize, not aliens",
+            "textOriginal": "What i really love abou avatar is that human is the one who colonize, not aliens",
+            "authorDisplayName": "Wahyu Prasetyo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZ69gCE_Z2RH8w4lUOPnWmDjYejL1aqVlTpQzE7=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFeCdVJJLdfIyIJIw5V54Uw",
+            "authorChannelId": {
+              "value": "UCFeCdVJJLdfIyIJIw5V54Uw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-10-17T02:48:23Z",
+            "updatedAt": "2023-10-17T02:48:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "79DSNxkj2QO7kTmYoex0_itXvMM",
+      "id": "Ugwhjif75VnyZ4jP7mV4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "R0w9JAb4APVLe4UsmcXlCdQi3y0",
+          "id": "Ugwhjif75VnyZ4jP7mV4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "Let&#39;s hope that Palestine will get the same victory of Pandora people \u2764\ufe0f\ud83c\uddf5\ud83c\uddf8",
+            "textOriginal": "Let's hope that Palestine will get the same victory of Pandora people \u2764\ufe0f\ud83c\uddf5\ud83c\uddf8",
+            "authorDisplayName": "Don Nuele",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/xRZDqT4AKDYcefWSRctU0aGQ4zN_JerGt4x0Vhy_5h_GrgFjw89wYEekP5ebk5xuywONMna6uBI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLAdkm1gQn0pl_x6R5u7ATQ",
+            "authorChannelId": {
+              "value": "UCLAdkm1gQn0pl_x6R5u7ATQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2023-10-15T11:13:28Z",
+            "updatedAt": "2023-10-15T11:13:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "GaAvGiZzx88AzpKMxq8x1kcNagU",
+      "id": "UgwI-uWYkGAY5B3Ddat4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "C00U85eaU8lNpnHPg5uheVmIijk",
+          "id": "UgwI-uWYkGAY5B3Ddat4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "I don&#39;t think villan was sooo fooool they fan face a Tsar bomb\ud83d\ude02\ud83d\ude02",
+            "textOriginal": "I don't think villan was sooo fooool they fan face a Tsar bomb\ud83d\ude02\ud83d\ude02",
+            "authorDisplayName": "Abhay Patel",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/L1dK-13oxhKTZlkPCMyhT-GPWhcLzTrH-t36vn2MZ2MLsH1qFnLVjV-D6weoEtIt853bxIZgJV4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCg-eKhoHIQK8k2RdAE3CjsQ",
+            "authorChannelId": {
+              "value": "UCg-eKhoHIQK8k2RdAE3CjsQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-10-07T06:41:48Z",
+            "updatedAt": "2023-10-07T06:41:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7rAI_0Sqthwf5jt5HrykPrybKQg",
+      "id": "UgydLEXqHrismnroEIt4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "DO_HpnbNs5Itcp05ZzdjMxrC2jY",
+          "id": "UgydLEXqHrismnroEIt4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "<a href=\"https://www.youtube.com/watch?v=0sJeBiUCIt4&amp;t=8m36s\">8:36</a> In Avatar Way of Water they made a callback showing a footage Jake fighting the Colonel",
+            "textOriginal": "8:36 In Avatar Way of Water they made a callback showing a footage Jake fighting the Colonel",
+            "authorDisplayName": "G1 Grimlock",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/80JhHTxXCCaebqUYc2Wg7o09GTN7d0P64gaaVLHxYArzTIMU5un0zJqC42-BITM18nL2P9Afug=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCg2aCrPI8PAzPTJdr7hkgpA",
+            "authorChannelId": {
+              "value": "UCg2aCrPI8PAzPTJdr7hkgpA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-09-23T16:10:18Z",
+            "updatedAt": "2023-09-23T16:10:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "5xNtOo3HfcYQ9MAoxavP3IKbb5Q",
+      "id": "UgyAkzU8f2IqxPnlpFx4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LYJWqjVcgHj22_-u6nueHYN_A3E",
+          "id": "UgyAkzU8f2IqxPnlpFx4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "Er uprae ar movie hoi na",
+            "textOriginal": "Er uprae ar movie hoi na",
+            "authorDisplayName": "Shafiul Alam",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYNo9Yuo7yeO1JeApMQOeko33kBnvzei1tPdMwL=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2MVvMfVZv4xQH0zXsgqFtw",
+            "authorChannelId": {
+              "value": "UC2MVvMfVZv4xQH0zXsgqFtw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-09-19T13:29:47Z",
+            "updatedAt": "2023-09-19T13:29:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Yau8ieGRqGBBShpKIcyg8d745nM",
+      "id": "Ugy2BHyNTOqqVoQtzjR4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "H6YEjqH_5B06a56q_b5cmb5LxZk",
+          "id": "Ugy2BHyNTOqqVoQtzjR4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "Awesome",
+            "textOriginal": "Awesome",
+            "authorDisplayName": "Shafiul Alam",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYNo9Yuo7yeO1JeApMQOeko33kBnvzei1tPdMwL=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2MVvMfVZv4xQH0zXsgqFtw",
+            "authorChannelId": {
+              "value": "UC2MVvMfVZv4xQH0zXsgqFtw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-09-19T13:28:57Z",
+            "updatedAt": "2023-09-19T13:28:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "b7S9tF_6B_9oP5VgNUhujidbIuY",
+      "id": "Ugz7JG_I1uhfJrRegqN4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sWACE_pvNhc7xBoDBPd_qECKsSU",
+          "id": "Ugz7JG_I1uhfJrRegqN4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "Ami valo sehle",
+            "textOriginal": "Ami valo sehle",
+            "authorDisplayName": "Shafiul Alam",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYNo9Yuo7yeO1JeApMQOeko33kBnvzei1tPdMwL=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2MVvMfVZv4xQH0zXsgqFtw",
+            "authorChannelId": {
+              "value": "UC2MVvMfVZv4xQH0zXsgqFtw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-09-19T13:28:24Z",
+            "updatedAt": "2023-09-19T13:28:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HVkQ0EZXBayZF9h3MvgOk-iEM4c",
+      "id": "UgydTO5yQAOs2qYCP1R4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "T2Q4yQzRqUZCbwT9QKUF8d68Q5s",
+          "id": "UgydTO5yQAOs2qYCP1R4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "Avatars are powerful",
+            "textOriginal": "Avatars are powerful",
+            "authorDisplayName": "siamte",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/87qNdqxPD_YJb9tz0U-koh-SdnjApPQTdRBrjECeXYV7KsbitQvhod54I5-8u8gIc7BobMw8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjjKNGWgstkXX3AyMiE-BMQ",
+            "authorChannelId": {
+              "value": "UCjjKNGWgstkXX3AyMiE-BMQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-09-19T12:34:47Z",
+            "updatedAt": "2023-09-19T12:34:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bcWaRagMHPGkrh0bNbeSVjKEyLI",
+      "id": "UgwT586Qi3NbIbpMu9V4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nrAKX47zopeW4OCphViZIZaB2MU",
+          "id": "UgwT586Qi3NbIbpMu9V4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "I wanted the humans to win",
+            "textOriginal": "I wanted the humans to win",
+            "authorDisplayName": "Cylintruc Le Machin",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/oqZA2bw1b5h53ZvWBKWNmHLu2bn_JlLIGGbUpW-zV0-aySNPCvecnnjohBL-ezhlFIU02DpH4w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbJpurh7_bX-NKPpFSL6ruw",
+            "authorChannelId": {
+              "value": "UCbJpurh7_bX-NKPpFSL6ruw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-09-18T19:21:14Z",
+            "updatedAt": "2023-09-18T19:21:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KA0O2sRuXS755s24kyEaYNYxc1g",
+      "id": "Ugw2B80ekLiZzXl1QgF4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mzayuqzpRv5mTFIoW72qdxhnjps",
+          "id": "Ugw2B80ekLiZzXl1QgF4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "<a href=\"https://www.youtube.com/watch?v=0sJeBiUCIt4&amp;t=8m01s\">8:01</a> bro\u2019s doing 200km easily \ud83d\ude02\u2764\ufe0fso sad we didn\u2019t saw more of the thanator",
+            "textOriginal": "8:01 bro\u2019s doing 200km easily \ud83d\ude02\u2764\ufe0fso sad we didn\u2019t saw more of the thanator",
+            "authorDisplayName": "Shahid Mason",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZ55589TzTXqmc-NjL5j9aN-UdJcxmc4lBLPx_K-Laz6ZVbiFGsbOlRWVqavezs=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYHpwWwp_Wc5B78bmhNDDDA",
+            "authorChannelId": {
+              "value": "UCYHpwWwp_Wc5B78bmhNDDDA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-09-18T01:26:05Z",
+            "updatedAt": "2023-09-18T01:26:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QSN0yYLnZLI0LvhO0nLLhmHO15E",
+      "id": "Ugw28DUp1B1k0gF9U3d4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "P4VsiUjgqKYS7DVcx42mLbajzlc",
+          "id": "Ugw28DUp1B1k0gF9U3d4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "The massive plane - a repurposed bomber with those &quot;mine explosives&quot; - 2 batches of mine explosives. Daisy-cutters! Scary. I saw all of &quot;Avatar&quot; and saw that RDA bomber finally blown out of the sky by Jake Sully. <br><br>The bomber went down, and did an upside-down full turn and hit on impact backwards with the earth away from the Tree of Souls. I knew the explosion from the armed explosives would be massive and it was - with a &quot;guestimate&quot; yield of roughly 5 tons of TNT. The after-pressure that could be released from the explosion (also a guestimate) was something like 10,000 pounds per square inch or more--more powerful than the deadliest electrical arc flash. <br><br>After the main blast I saw smaller explosions so something like cluster bombs going off after that.",
+            "textOriginal": "The massive plane - a repurposed bomber with those \"mine explosives\" - 2 batches of mine explosives. Daisy-cutters! Scary. I saw all of \"Avatar\" and saw that RDA bomber finally blown out of the sky by Jake Sully. \n\nThe bomber went down, and did an upside-down full turn and hit on impact backwards with the earth away from the Tree of Souls. I knew the explosion from the armed explosives would be massive and it was - with a \"guestimate\" yield of roughly 5 tons of TNT. The after-pressure that could be released from the explosion (also a guestimate) was something like 10,000 pounds per square inch or more--more powerful than the deadliest electrical arc flash. \n\nAfter the main blast I saw smaller explosions so something like cluster bombs going off after that.",
+            "authorDisplayName": "Charles Smith",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZh03S-l92JKZQeJgB69TyoLGLM9s76lnwWr7NcfQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9ngvStTc4Hrq1WEVokzfsg",
+            "authorChannelId": {
+              "value": "UC9ngvStTc4Hrq1WEVokzfsg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-09-17T22:44:51Z",
+            "updatedAt": "2023-09-17T22:44:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8PcX7AA3bJTK8gLeXWveabGBU2Y",
+      "id": "UgxRCN1oixLpwG4Uvgh4AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rDIY7OFLN6S63TABOus_rAqoio8",
+          "id": "UgxRCN1oixLpwG4Uvgh4AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "what is movie name?",
+            "textOriginal": "what is movie name?",
+            "authorDisplayName": "MD NURUL ISLAM",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKambomIoL7Jk1aw4FMDhHx3dP_opN1OVECZtTZ9=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVihxLx6wljkCsTiamrJayA",
+            "authorChannelId": {
+              "value": "UCVihxLx6wljkCsTiamrJayA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-09-16T10:21:23Z",
+            "updatedAt": "2023-09-16T10:21:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "hpYP8y9pnHCv-QXj09dQUfO_SAQ",
+      "id": "UgztMrmGezfU6qV8vT54AaABAg",
+      "snippet": {
+        "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+        "videoId": "0sJeBiUCIt4",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cKazwux4km3hK2lcgyrNBycZNGw",
+          "id": "UgztMrmGezfU6qV8vT54AaABAg",
+          "snippet": {
+            "channelId": "UC6LDwTYRfjQwkakw5R95OyA",
+            "videoId": "0sJeBiUCIt4",
+            "textDisplay": "DOWN WITH JAKE SULLY. I was rooting for the humans in the first Avatar and again in Avatar 2.",
+            "textOriginal": "DOWN WITH JAKE SULLY. I was rooting for the humans in the first Avatar and again in Avatar 2.",
+            "authorDisplayName": "Zoey",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/wmsTJYCw__LLPX9t7kELqytsqAz1lVCCmb40W5cX72A5fmzDSGzuaXeWn6m7JtvbedqKKffdJxk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCr9HdSi-nk1a7cdXNV0X7gw",
+            "authorChannelId": {
+              "value": "UCr9HdSi-nk1a7cdXNV0X7gw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-09-16T04:23:04Z",
+            "updatedAt": "2023-09-16T04:23:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}
