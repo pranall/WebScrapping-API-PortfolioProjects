@@ -1,7 +1,7 @@
 # WebScrapping-API-PortfolioProjects
-Hello! This repository contains all my web scrapping projects!
+Hello! This repository contains all my web scrapping and API related projects!
 
-This repo is divided into Part A and Part B folders.
+This repo is divided into Part A, B and C folders.
 
 Part A Folder: Explains Job Analysis in India using keyword 'Data Scientist' from Naukri Platform
 
@@ -11,3 +11,8 @@ Part A Folder: Explains Job Analysis in India using keyword 'Data Scientist' fro
 Part B Folder: Explains Web Scrapping from a movie dataset.
 
 [Full Project link with attached .ipynb, csv file and README](https://github.com/pranall/WebScrapping-API-PortfolioProjects/blob/main/Web%20Scrapping%20and%20Analysis%20of%20movie%20data/Part%20B/Part%20B%20README.md)
+
+
+Part C Folder: Data extraction and analysis from social media platform YouTube.
+
+[Full Project link with attached .ipynb, csv and README file](https://github.com/pranall/WebScrapping-API-PortfolioProjects/blob/main/Web%20Scrapping%20and%20Analysis%20of%20movie%20data/Part%20C/Part%20C%20README.md)
